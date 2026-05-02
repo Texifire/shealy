@@ -41,11 +41,11 @@ z-index: -1;
 }
 
 .container {
-width: 100%;
-max-width: 900px;
-background: #1A1A1D;
-box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-overflow: hidden;
+    width: 95%;
+    max-width: 1400px; /* increased from 900px */
+    background: #1A1A1D;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    overflow: hidden;
 }
 
 /* HEADER */
