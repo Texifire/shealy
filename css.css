@@ -65,7 +65,7 @@ object-fit: cover;
 
 .header-text h1 {
 margin: 0;
-font-size: 36px;
+font-size: 44px;
 color: #C94A4A;
 font-family: "Encode Sans Expanded", sans-serif;
 font-weight: 500;
@@ -73,7 +73,7 @@ font-weight: 500;
 
 .header-text p {
 margin: 5px 0 0;
-font-size: 18px;
+font-size: 26px;
 color: #C94A4A;
 font-family: "Encode Sans Expanded", sans-serif;
 font-weight: 500;
@@ -98,14 +98,14 @@ justify-content: center;
 }
 
 .section-title {
-font-size: 24px;
+font-size: 32px;
 font-weight: 500;
 color: #F2F2F2;
 font-family: "Encode Sans Expanded", sans-serif;
 }
 
 .text {
-font-size: 18px;
+font-size: 26px;
 line-height: 1.5;
 color: #B8B8B8;
 font-family: "Encode Sans Expanded", sans-serif;
